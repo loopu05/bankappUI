@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\BankAppUIhw\BankAppUIhw\BankAppUIhw\bin\Debug\netstandard2.0\BankAppUIhw.deps.json
+C:\Users\User\source\repos\BankAppUIhw\BankAppUIhw\BankAppUIhw\bin\Debug\netstandard2.0\BankAppUIhw.dll
+C:\Users\User\source\repos\BankAppUIhw\BankAppUIhw\BankAppUIhw\bin\Debug\netstandard2.0\ref\BankAppUIhw.dll
+C:\Users\User\source\repos\BankAppUIhw\BankAppUIhw\BankAppUIhw\bin\Debug\netstandard2.0\BankAppUIhw.pdb
+C:\Users\User\source\repos\BankAppUIhw\BankAppUIhw\BankAppUIhw\obj\Debug\netstandard2.0\BankAppUIhw.csprojAssemblyReference.cache
+C:\Users\User\source\repos\BankAppUIhw\BankAppUIhw\BankAppUIhw\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\source\repos\BankAppUIhw\BankAppUIhw\BankAppUIhw\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\source\repos\BankAppUIhw\BankAppUIhw\BankAppUIhw\obj\Debug\netstandard2.0\BankAppUIhw.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\BankAppUIhw\BankAppUIhw\BankAppUIhw\obj\Debug\netstandard2.0\BankAppUIhw.AssemblyInfo.cs
+C:\Users\User\source\repos\BankAppUIhw\BankAppUIhw\BankAppUIhw\obj\Debug\netstandard2.0\BankAppUIhw.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BankAppUIhw\BankAppUIhw\BankAppUIhw\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\source\repos\BankAppUIhw\BankAppUIhw\BankAppUIhw\obj\Debug\netstandard2.0\BankAppUIhw.dll
+C:\Users\User\source\repos\BankAppUIhw\BankAppUIhw\BankAppUIhw\obj\Debug\netstandard2.0\ref\BankAppUIhw.dll
+C:\Users\User\source\repos\BankAppUIhw\BankAppUIhw\BankAppUIhw\obj\Debug\netstandard2.0\BankAppUIhw.pdb

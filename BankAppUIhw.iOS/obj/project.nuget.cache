@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/UetRtMjapFxInhyL5wGGgAs2kaAwnl5HMnEvgpa/7KTUJet6jM/IBX6dMGDCg9dO0tibXxdO63e3+od6RD+fg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\BankAppUIhw\\BankAppUIhw\\BankAppUIhw.iOS\\BankAppUIhw.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "D:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "D:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}
